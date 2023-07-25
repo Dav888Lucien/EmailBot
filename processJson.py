@@ -102,7 +102,7 @@ def convert_month(month):
 
 
 # Directory path containing JSON files
-json_files_directory = '/root/AccountiumEmailBot'
+json_files_directory = r'C:\Users\accountiumvm\Documents\EmailBotV2'
 
 # Iterate over each JSON file
 
